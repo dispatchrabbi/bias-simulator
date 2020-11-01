@@ -1,0 +1,4 @@
+{
+  "engine": "node",
+  "extends": "airbnb-base"
+}
